@@ -1,0 +1,13 @@
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\face ting2.0.pdb
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\cvextern.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\libusb-1.0.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\concrt140.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\msvcp140.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\msvcp140_1.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\msvcp140_2.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\msvcp140_atomic_wait.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\msvcp140_codecvt_ids.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\vcruntime140.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\vcruntime140_1.dll
+C:\Users\zaxmo\source\repos\face ting2.0\face ting2.0\bin\Release\net8.0\win-x64\publish\face ting2.0.exe
