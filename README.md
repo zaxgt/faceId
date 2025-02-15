@@ -1,6 +1,10 @@
 
 
-Uploading Namnlös video – Gjord med Clipchamp (5).mp4…
+
+
+https://github.com/user-attachments/assets/f5be536f-077c-40c5-9f0a-365101819e26
+
+
 
 Hi please give credit if you fork this or use it for another project im just a 14yr making ts so it would be well appreciated 
 and if you need help during any prosess or the instalation/setup to get your project started reach out to me on discord zaxandmilo 
